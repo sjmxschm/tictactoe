@@ -6,7 +6,6 @@ contains all functions for class Chessboard from Chessboard.h
 using std::string;
 
 # include "Chessboard.h"
-# include "mainFunctions.cpp"
 
 Chessboard::Chessboard() {
 	for (int row = 0; row < 4; row++) {
