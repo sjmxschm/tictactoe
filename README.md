@@ -20,4 +20,4 @@ This will build an (linked) executable file from the source code. To run the gam
 ```
 This starts the program. It terminates by itself, but you can terminate it manually at every point with `Ctrl` + `C`.
 
-If you have any questions, feel free to send an email to [mailto:mschmitz7@gatech.edu](mschmitz7@gatech.edu).
+If you have any questions, feel free to send an email to [mschmitz7@gatech.edu](mailto:mschmitz7@gatech.edu).
